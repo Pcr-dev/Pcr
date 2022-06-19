@@ -1,4 +1,4 @@
-# importing python in-build library called random for randomize the password sequence
+# importing python in-built library called random for randomize the password sequence
 import random
 
 # printing to the user screen a welcome message
