@@ -1,8 +1,31 @@
-# Hello! :wave: Nice to Having You Here
+# Hello! :wave: welcome to :robot: world !
+### Head over >> Towards Data Science :chart: 
+        github@pcr-dev ~/Pratap-s-portfolio/ (master) 
+        $ cd Towards_Data_Science/
+        
+        $ ls
+        'python projects'/
 
-### On the top there are two different Directories as the name suggest the first one is for Data Science Journey and the other one for Web development
+        $ cd python\ projects/
 
-### As of now what I have achived in my Web development Journey, lets try to understand through this visualization
+### Navigate  >> Towards Web Development :computer: 
+        github@pcr-dev ~/Pratap-s-portfolio/ (master)
+        $ cd Towards_Web_Development/
+        
+        $ ls
+        'JS bootCamp'/ 'Projects by Pratap'/
+
+### Learned Tech Stacks >> 
+
+### Projects Made >>
+
+### Social Handels >>
+
+
+
+<!-- ### On the top there are two different Directories as the name suggest the first one is for Data Science Journey and the other one for Web development -->
+
+<!-- ### As of now what I have achived in my Web development Journey, lets try to understand through this visualization -->
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_badge.svg)](https://repography.com)
 [![Timeline graph](https://images.repography.com/31495716/Pcr-dev/Pratap-s-portfolio/recent-activity/d1becd0687472eea7fb9512dafc27b8a_timeline.svg)](https://github.com/Pcr-dev/Pratap-s-portfolio/commits)

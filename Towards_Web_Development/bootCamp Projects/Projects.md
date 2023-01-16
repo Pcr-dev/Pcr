@@ -1,5 +1,5 @@
 # Hi There welcome here :raised_hand: 
-### Let's check out some projects made in :purple_heart: by Pratap
+### Let's check out some projects made with :purple_heart: by Pratap
 
 #### Your Fedback appreciated, please give Yours [@twitter/PratapPcr]()
 
